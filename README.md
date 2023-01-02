@@ -7,3 +7,5 @@ PROJECT_1
 ![alt text](PROJECT_1/images/page2.png)
 
 PROJECT_2
+
+![alt text](PROJECT_2/images/home/insects.png)
